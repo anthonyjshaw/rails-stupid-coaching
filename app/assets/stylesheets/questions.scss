@@ -1,0 +1,24 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+
+.card-container {
+  margin: 10px 20px;
+  width: 700px;
+}
+
+.answer-card {
+  border-left: solid 8px lightgrey;
+  padding: 8px 20px;
+  margin: 24px 10px;
+}
+
+.answer-card.response {
+  background: lightyellow;
+}
+
+
+.link {
+  text-decoration: none;
+}
